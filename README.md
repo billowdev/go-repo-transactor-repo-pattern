@@ -1,4 +1,4 @@
-# go-hexa-transactor-repo-pattern
+# go-repo-transactor-repo-pattern
 Transactor Repository (TransactorRepo)
 
 ## Transactor Repository (TransactorRepo)
